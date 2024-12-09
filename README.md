@@ -25,11 +25,14 @@ How to Run This Thing :
 
 2. Navigate to the project directory:
 
-             cd IPC_project
+             cd IPC
 
 3. Compile everything:
 
              make
+
+            g++ -std=c++11 -Wall -Wextra sender.cpp -o sender
+            g++ -std=c++11 -Wall -Wextra receiver.cpp -o receiver
 
 4. Run the sender and receiver in one terminal(I prefer this way for no lag in data):
 
