@@ -1,7 +1,6 @@
 # IPC Project
 
-Hey there! 👋 Welcome to my IPC (Inter-Process Communication) project. I put this together as a cahllenge by Dynon Avionics on how processes can chat with each other in C++. 
-It's been a while since I've dived into this stuff, so bear with me if things aren't perfect!
+👋 Welcome to my IPC (Inter-Process Communication) project. I put this together as a challenge by Dynon Avionics on how processes can chat with each other in C++. 
 
 ## Project Requirements
 
